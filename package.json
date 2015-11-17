@@ -24,7 +24,7 @@
     "solc": "^0.1.6",
     "toposort": "^0.2.10",
     "web3": "^0.14.0",
-    "wrench": "^1.5.8",
+    "wrench": "^1.5.8"
   },
   "author": {
     "name": "Iuri Matias",
